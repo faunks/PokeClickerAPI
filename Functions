@@ -1,0 +1,2 @@
+// to get if a pokemon is already cought
+App.game.party.alreadyCaughtPokemon(4) // if charmander is already cought lol 
