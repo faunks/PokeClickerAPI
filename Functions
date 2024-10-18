@@ -1,2 +1,5 @@
 // to get if a pokemon is already cought
-App.game.party.alreadyCaughtPokemon(4) // if charmander is already cought lol 
+App.game.party.alreadyCaughtPokemon(4) // if Charmander is already cought lol 
+
+// to get the stats of a pokemon in your party
+App.game.party.getPokemonByName("Charmander") // returns the stats of your Charmander
