@@ -11,7 +11,7 @@ scripts and examples from this repo will NOT include any "troll scripts" and the
 alert when you go to the console that goes like:
 " This is a browser feature intended for developers. If you were told to copy-paste or enter something here to obtain an easter egg or unlock a secret, it can corrupt your save file, cause bugs, or otherwise break your game."
 before executing ANY SCRIPT take your time and read it, or just run it in an incognito tab and not running it on a vanilla save file. 
-personaly I think "hack scripts" that ment to be ran in your "personal save file"  ruins the fun of actually playing the game
+personally I think "hack scripts" that ment to be ran in your "personal save file"  ruins the fun of actually playing the game
 but what I think isn't bad is playing a mod someone made (:
 
 # CREDIT
