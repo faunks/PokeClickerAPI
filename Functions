@@ -1,3 +1,7 @@
+
+// to get your entire party
+App.game.party // can use like .toJson() or smth 
+
 // to get if a pokemon is already cought
 App.game.party.alreadyCaughtPokemon(4) // if Charmander is already cought lol 
 
