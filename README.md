@@ -3,7 +3,7 @@ Api for modding PokeClicker (a good ass game)
 
 # use cases
 Mod creations like a boss fight I made a long time ago and some randomizers
-adding the game a bit of... 
+adding the game a bit of...
 ✨Spark!✨
 
 # BE AWARE
