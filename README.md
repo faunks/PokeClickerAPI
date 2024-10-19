@@ -3,7 +3,8 @@ Api for modding PokeClicker (a good ass game)
 
 # use cases
 Mod creations like a boss fight I made a long time ago and some randomizers
-adding the game a bit of... ✨Spark!✨
+adding the game a bit of... 
+✨Spark!✨
 
 # BE AWARE
 people may use the api for making some "troll scripts" that can corrupt your save file
